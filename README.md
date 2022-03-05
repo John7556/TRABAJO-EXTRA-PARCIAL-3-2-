@@ -1,1 +1,31 @@
-# TRABAJO-EXTRA-PARCIAL-3-2-
+# Informe Trabajo Construcción  y simulación de un sumador no inversor
+
+1. OBJETIVO GENERAL 
+
+*
+
+1.2. OBJETIVO ESPECIFICO 
+
+.
+
+2. MARCO TEÓRICO 
+
+
+
+3. EXPLICACIÓN DEL PROCEDIMIENTO
+
+MATERIALES: 
+
+4. RESPUESTA A INTERROGANTES 
+
+
+5. VIDEO
+
+
+
+6. CONCLUSIONES
+
+
+
+7. BIBLIOGRAFÍA
+
