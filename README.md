@@ -1,8 +1,11 @@
 # Informe Trabajo Construcción  y simulación amplificador no inversor
 
-1. OBJETIVO GENERAL 
+1. OBJETIVOS
+
+1.1. OBJETIO GENERAL 
 
 * Construir y comprender el amplificador no inversor  el cual permita mediante un circuito tener una ganancia en el voltaje final con respecto al voltaje inicial.
+
 1.2. OBJETIVO ESPECIFICO 
 
 * Detallar y explicar la elaboracion del amplificador no inversor y las dificultades presentadas en su construccion.
