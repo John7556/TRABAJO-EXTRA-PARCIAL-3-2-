@@ -25,6 +25,7 @@ MATERIALES:
 * 2 Resitencias de 1 kiloohmio 
 * Cable conductor de timbre 
 * Multimetro 
+* Protoboard 
 * Fuente de poder de 12 Voltios
 
 1-
