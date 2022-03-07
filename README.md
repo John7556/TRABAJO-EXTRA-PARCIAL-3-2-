@@ -46,17 +46,29 @@ Conectamos nuestras señales de voltaje en el pin correspondiente voltaje positi
 
 4-
 
-Conectamos nuestaras cables para poder dar voltaje al circuito con nuestra fuente de poder.
+Conectamos nuestaras cables para poder dar voltaje al circuito con nuestra fuente de poder la cual mandara un voltaje de 5 voltios.
 
 ![WhatsApp Image 2022-03-07 at 10 53 14 AM](https://user-images.githubusercontent.com/93899720/157069342-99ce4431-6572-4048-8b08-5b227e316e0e.jpeg)
 
-5- Damos voltaje a nuestro circuito y medimos la amplificacion que se da.
+5- 
+Damos voltaje a nuestro circuito y medimos la amplificacion que se da.
 
 ![image](https://user-images.githubusercontent.com/93899720/157069694-0411282f-3439-4cb6-a62c-5dcc78c04213.png)
 
+6- 
+
+Realizamos la simulacion en el simulador de multisim se adjunta evidencias.
+
+![image](https://user-images.githubusercontent.com/93899720/157070765-45b8de66-4f4f-46e5-acc8-111e22d5e4cf.png)
+
+![image](https://user-images.githubusercontent.com/93899720/157070813-fdd15677-e2fe-4c5a-b899-0c34e3e7d26f.png)
+
+
 4. RESPUESTA A INTERROGANTES 
 
+Que es lo que hace el Amplificador no inversor ?
 
+Como nos dice su concepto en el circuito armado el amplificador no inversor nos hace tener una ganancia de voltaje en este caso nuestro voltaje inicial fue de 5 V y con el amplificador terminamos teniendo una amplificacion de 10 V por lo que se obtiene una ganancia de 5 voltios .
 
 5. VIDEO
 
