@@ -10,6 +10,7 @@
 
 2. MARCO TEÓRICO 
 
+![Untitled (3)](https://user-images.githubusercontent.com/93899720/156962205-966bd2c7-bea0-4fd7-bf32-3b7428e0e112.jpg)
 
 
 3. EXPLICACIÓN DEL PROCEDIMIENTO
